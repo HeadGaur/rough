@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T11:17:21.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.8.3" etag="m0NQKnx-E__7gMpJIy0R" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T11:26:46.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.8.3" etag="xbnS4XfFpLNsOYEpWB2M" type="github">
   <diagram id="of-I4-T_ojTNUOSFvbh3" name="Page-1">
     <mxGraphModel dx="2233" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
         </mxCell>
         <mxCell id="_g6t0JAhR5jxiRRMaBCF-58" value="Incentive_view" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=#D2FF57;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="130" height="212" as="geometry">
-            <mxRectangle x="220" y="40" width="120" height="30" as="alternateBounds" />
+            <mxRectangle x="90" y="240" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_g6t0JAhR5jxiRRMaBCF-59" value="CLQYear2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_g6t0JAhR5jxiRRMaBCF-58">
@@ -237,8 +237,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_g6t0JAhR5jxiRRMaBCF-87" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="460" width="140" height="160" as="geometry" />
+        <mxCell id="_g6t0JAhR5jxiRRMaBCF-87" value="Here to decide the incentives we have few requirements as below -&amp;nbsp;&lt;br&gt;&lt;b&gt;1.&lt;/b&gt; &lt;b&gt;Cross 60% of Quota&lt;/b&gt;&lt;br&gt;&lt;b&gt;2.&lt;/b&gt; &lt;b&gt;Product &lt;/b&gt;: &lt;br&gt;: DaaS : If amount is &amp;gt;= 60k then 6%&lt;br&gt;&amp;lt; 60k then 4%&lt;br&gt;: Platform : if amount is &amp;gt;= 36k then 8%&lt;br&gt;&amp;lt;= 36k then 2%&lt;br&gt;&lt;br&gt;&lt;b&gt;3. 0$ usage&lt;/b&gt;&lt;br&gt;Quarter amount &amp;gt;= 9k then 8%&lt;br&gt;&amp;lt; 9k then 2%&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=2;pointerEvents=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="472" width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_g6t0JAhR5jxiRRMaBCF-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_g6t0JAhR5jxiRRMaBCF-65" target="_g6t0JAhR5jxiRRMaBCF-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
